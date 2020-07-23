@@ -1,6 +1,6 @@
 # garmin-parser
 
-### This is an inital prompt to parser some garmin files (.tcx and .csv)
+### This is an inital prompt to parse some garmin files (.tcx and .csv)
 
 ## Dependencies
 
